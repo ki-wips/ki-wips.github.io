@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages (new version)
 
 You can use the [editor on GitHub](https://github.com/ki-wips/ki-wips.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
